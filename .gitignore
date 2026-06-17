@@ -1,0 +1,24 @@
+# 环境变量和密钥
+.env
+.env.*
+!.env.example
+
+# Python 虚拟环境
+venv/
+.venv/
+env/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# 日志
+*.log
