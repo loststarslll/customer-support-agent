@@ -1,0 +1,16 @@
+id,category,question,answer
+faq_001,refund,How can I request a refund?,You can request a refund within 7 days after receiving the product if it meets the return conditions.
+faq_002,refund,When will I receive my refund?,Approved refunds are usually returned to the original payment method within 3 to 7 business days.
+faq_003,refund,Can I return an opened product?,Opened products can only be returned if they are defective or do not match the product description.
+faq_004,delivery,How long does standard delivery take?,Standard delivery usually takes 3 to 5 business days.
+faq_005,delivery,My package has not arrived. What should I do?,Please check the tracking information first. If there is no update for 48 hours contact customer support.
+faq_006,delivery,How can I track my order?,You can find the tracking number and delivery status in the order details page.
+faq_007,damaged,My product arrived damaged. What should I do?,Take clear photos of the damaged product and packaging and contact customer support within 48 hours.
+faq_008,damaged,Can I get a replacement for a damaged item?,A replacement can be arranged after customer support verifies the damage evidence.
+faq_009,payment,My payment failed. What should I do?,Check your card information and available balance and then try again. You may also use another payment method.
+faq_010,payment,Why was I charged twice?,A duplicate charge may be a temporary authorization. Contact customer support if both charges remain after 3 business days.
+faq_011,account,How do I reset my password?,Select Forgot Password on the login page and follow the instructions sent to your registered email.
+faq_012,account,I cannot log in to my account.,Confirm your email and password and try resetting your password. Contact support if the issue continues.
+faq_013,cancellation,Can I cancel my order?,You can cancel an order before it enters the shipping process from the order details page.
+faq_014,cancellation,Why can I not cancel my order?,An order cannot be cancelled after it has already been shipped.
+faq_015,exchange,Can I exchange a product?,Eligible products can be exchanged within 7 days after delivery if they are unused and in the original packaging.
