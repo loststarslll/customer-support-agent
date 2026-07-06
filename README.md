@@ -68,3 +68,16 @@
 
 ```bash
 bash scripts/start_all.sh
+
+---
+
+## 数据与评测链路
+
+本项目采用“公开 FAQ → 中文知识库 → 中文口语评测集 → 检索指标 → 用户端引用溯源”的数据闭环。
+
+知识库基于 Hugging Face 公开客服 FAQ 数据集构建，包括 `MakTek/Customer_support_faqs_dataset` 和 `Andyrasika/Ecommerce_FAQ`。两个数据集原始样本共 279 条，经 question-answer 去重后得到 89 条唯一 FAQ。系统将英文 FAQ 翻译为中文知识库，并保留 `question_en`、`answer_en`、`dataset_source`、`source_title` 等字段用于来源追溯。
+
+中文检索评测集从公开 FAQ 中抽样生成，并进一步改写为口语化中文用户问题，以更贴近真实客服场景。评测指标分为严格 FAQ ID 指标和弱标注 Category 指标，包括 FAQ ID Recall@3、FAQ ID MRR、Category Precision@3 等。
+
+用户端回答会展示 FAQ 参考来源，例如 `[public_zh_faq_0007] 如何申请退款？｜MakTek Customer Support FAQs Dataset｜2026-07-01`，用于验证回答的可追溯性。
+
