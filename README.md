@@ -64,3 +64,7 @@
 → 返回回答
 → SQLite 记录日志
 
+## 一键启动
+
+```bash
+bash scripts/start_all.sh
