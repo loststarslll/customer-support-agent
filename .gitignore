@@ -29,3 +29,4 @@ data/indexes/
 # SQLite 本地日志数据库
 data/agent_logs.sqlite3
 *.sqlite3
+.env
