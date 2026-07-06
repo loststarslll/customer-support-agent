@@ -25,3 +25,7 @@ __pycache__/
 
 # 本地生成的向量索引
 data/indexes/
+
+# SQLite 本地日志数据库
+data/agent_logs.sqlite3
+*.sqlite3

@@ -1,16 +1,61 @@
 id,category,question,answer
-faq_001,refund,How can I request a refund?,You can request a refund within 7 days after receiving the product if it meets the return conditions.
-faq_002,refund,When will I receive my refund?,Approved refunds are usually returned to the original payment method within 3 to 7 business days.
-faq_003,refund,Can I return an opened product?,Opened products can only be returned if they are defective or do not match the product description.
-faq_004,delivery,How long does standard delivery take?,Standard delivery usually takes 3 to 5 business days.
-faq_005,delivery,My package has not arrived. What should I do?,Please check the tracking information first. If there is no update for 48 hours contact customer support.
-faq_006,delivery,How can I track my order?,You can find the tracking number and delivery status in the order details page.
-faq_007,damaged,My product arrived damaged. What should I do?,Take clear photos of the damaged product and packaging and contact customer support within 48 hours.
-faq_008,damaged,Can I get a replacement for a damaged item?,A replacement can be arranged after customer support verifies the damage evidence.
-faq_009,payment,My payment failed. What should I do?,Check your card information and available balance and then try again. You may also use another payment method.
-faq_010,payment,Why was I charged twice?,A duplicate charge may be a temporary authorization. Contact customer support if both charges remain after 3 business days.
-faq_011,account,How do I reset my password?,Select Forgot Password on the login page and follow the instructions sent to your registered email.
-faq_012,account,I cannot log in to my account.,Confirm your email and password and try resetting your password. Contact support if the issue continues.
-faq_013,cancellation,Can I cancel my order?,You can cancel an order before it enters the shipping process from the order details page.
-faq_014,cancellation,Why can I not cancel my order?,An order cannot be cancelled after it has already been shipped.
-faq_015,exchange,Can I exchange a product?,Eligible products can be exchanged within 7 days after delivery if they are unused and in the original packaging.
+faq_001,refund,How can I request a refund?,"You can request a refund from your order details page. Select the order, choose refund, provide the reason, and submit the request."
+faq_002,refund,退款一般多久到账？,退款审核通过后，通常会在3到7个工作日内退回原支付账户，具体到账时间取决于支付机构或银行。
+faq_003,refund,Can I get a refund after the item has shipped?,"If the item has already shipped, you may need to wait until it is delivered and then submit a return or refund request."
+faq_004,refund,为什么我的退款还没到账？,退款未到账可能是因为仍在审核、银行处理延迟或原支付渠道处理时间较长。建议先查看订单退款状态。
+faq_005,refund,Can shipping fees be refunded?,"Shipping fees may be refunded only when the refund is caused by seller error, damaged goods, or delivery failure. Otherwise, shipping fees may not be refundable."
+faq_006,delivery,Where can I track my package?,"You can track your package in the order details page. If a tracking number is available, you can also check it on the carrier website."
+faq_007,delivery,我的包裹一直没有送到怎么办？,请先在订单详情中查看物流状态。如果超过预计送达时间仍未收到，可以联系在线客服协助核实。
+faq_008,delivery,Why is my tracking information not updating?,"Tracking information may take 24 to 48 hours to update after shipment. If there is no update for several days, please contact customer support."
+faq_009,delivery,可以修改收货地址吗？,如果订单尚未发货，通常可以尝试修改收货地址；如果订单已经发货，则可能无法修改。
+faq_010,delivery,What should I do if the carrier says delivered but I did not receive it?,"Please check nearby locations, reception areas, or with neighbors first. If you still cannot find the package, contact customer support for investigation."
+faq_011,payment,Why was my payment declined?,"Payment may be declined due to insufficient balance, card restrictions, incorrect payment information, or bank risk controls."
+faq_012,payment,付款失败应该怎么办？,请检查支付账户余额、银行卡状态和网络环境。你也可以更换支付方式后重新尝试。
+faq_013,payment,Can I change my payment method after placing an order?,"In most cases, the payment method cannot be changed after an order is placed. You may need to cancel the order and place a new one."
+faq_014,payment,为什么订单显示已扣款但未支付成功？,这可能是支付渠道状态同步延迟导致的。请等待一段时间后刷新订单，或联系支付机构确认。
+faq_015,payment,Do you support installment payment?,Installment payment availability depends on the selected payment method and your account eligibility.
+faq_016,account,I forgot my account password.,You can reset your password by selecting Forgot Password on the login page and following the verification steps.
+faq_017,account,我忘记登录密码了怎么办？,你可以在登录页面点击“忘记密码”，通过手机号、邮箱或验证码重置密码。
+faq_018,account,How can I change my phone number?,You can change your phone number in account settings after completing identity verification.
+faq_019,account,账号被锁定了怎么办？,账号可能因为多次输入错误密码或安全风险被锁定。请等待一段时间后重试，或联系客服处理。
+faq_020,account,Can I delete my account?,You may request account deletion from account settings. Some information may be retained if required by law or transaction records.
+faq_021,damaged,The product arrived damaged.,"If your product arrived damaged, please take photos of the item and packaging, then submit a return or refund request."
+faq_022,damaged,收到的商品破损了怎么办？,请拍摄商品和外包装照片，并在订单详情中提交售后申请，客服会根据情况处理退款、退货或换货。
+faq_023,damaged,What if an item is missing from my package?,"Please check the package and order details first. If an item is missing, contact customer support with photos of the package."
+faq_024,damaged,商品少发了怎么办？,如果确认商品少发，请保留外包装和商品照片，并联系在线客服核实补发或退款。
+faq_025,damaged,Can I get a replacement for a damaged product?,Replacement may be available depending on product stock and seller policy. Please submit an after-sales request first.
+faq_026,return,How do I return an item?,"You can start a return from the order details page. Select the item, choose a return reason, and follow the return instructions."
+faq_027,return,怎么退货？,你可以进入订单详情页，选择需要退货的商品，填写退货原因并提交申请。
+faq_028,return,How long do I have to return an item?,The return window depends on the product category and seller policy. Please check the order details for the specific return period.
+faq_029,return,退货运费谁承担？,如果是商品质量问题、错发或漏发，通常由商家承担；如果是个人原因退货，可能需要用户承担运费。
+faq_030,return,Do I need the original packaging for return?,Original packaging is recommended. Some products may require original packaging to complete the return.
+faq_031,exchange,Can I exchange an item?,Exchange availability depends on product stock and seller policy. You can check the after-sales options on the order details page.
+faq_032,exchange,可以换货吗？,是否支持换货取决于商品类型、库存和商家规则。你可以在订单详情中查看是否有换货选项。
+faq_033,exchange,How long does an exchange take?,"Exchange processing time depends on return shipping, inspection, and replacement stock. It usually takes several business days."
+faq_034,exchange,换货后物流信息在哪里看？,换货申请通过后，你可以在售后详情页查看新的物流信息。
+faq_035,exchange,Can I exchange for a different color or size?,"If the seller supports exchange and the desired color or size is in stock, you may request a replacement."
+faq_036,invoice,Can I request an invoice?,You can request an invoice from the order details page if the seller supports invoice issuance.
+faq_037,invoice,怎么开发票？,请进入订单详情页，选择发票服务，填写发票抬头、税号和邮箱等信息后提交。
+faq_038,invoice,Can I change invoice information after submission?,Invoice information may not be editable after submission. Please contact customer support if you need help.
+faq_039,invoice,发票什么时候能开好？,发票开具时间取决于商家处理速度，通常会在订单完成后的一定时间内开具。
+faq_040,invoice,Do you provide electronic invoices?,Electronic invoices may be available for supported orders and sellers. Please check the invoice option on the order page.
+faq_041,coupon,Why can't I use my coupon?,"A coupon may be unavailable because it expired, does not apply to the product, or does not meet the minimum order amount."
+faq_042,coupon,优惠券为什么用不了？,优惠券可能因过期、不适用当前商品、未达到满减金额或与其他优惠冲突而无法使用。
+faq_043,coupon,Can I use multiple coupons on one order?,Whether multiple coupons can be used depends on coupon rules and platform promotion policy.
+faq_044,coupon,取消订单后优惠券会退回吗？,如果订单取消成功，未过期且符合规则的优惠券通常会退回到账户。
+faq_045,coupon,Where can I find my coupons?,You can find available coupons in your account coupon center or during checkout.
+faq_046,membership,What benefits do members get?,"Member benefits may include exclusive discounts, coupons, faster support, and special promotions."
+faq_047,membership,会员权益有哪些？,会员权益通常包括专属优惠券、会员价、积分奖励、优先客服等，具体以页面展示为准。
+faq_048,membership,How do I upgrade my membership level?,"Membership level may be upgraded based on spending, points, or activity rules."
+faq_049,membership,积分怎么使用？,积分可在支持的订单中抵扣金额或兑换权益，具体使用规则以积分页面为准。
+faq_050,membership,Why did my points expire?,Points may expire if they are not used within the validity period stated in the membership rules.
+faq_051,product,How can I check product specifications?,"Product specifications are listed on the product detail page, including size, material, model, and compatibility information."
+faq_052,product,怎么查看商品规格？,你可以在商品详情页查看规格参数，包括尺寸、颜色、型号、材质和适用范围等。
+faq_053,product,Is the product authentic?,Products sold by verified sellers or official stores are subject to platform authenticity and quality policies.
+faq_054,product,商品和描述不一致怎么办？,如果收到的商品与页面描述明显不一致，请保留照片并提交售后申请。
+faq_055,product,Can I ask questions before buying?,You can contact customer support or the seller before purchase if you need more product information.
+faq_056,privacy,How is my personal information protected?,We use security measures to protect personal information and only use it according to our privacy policy.
+faq_057,privacy,我的个人信息安全吗？,平台会按照隐私政策保护你的个人信息，并采取必要的安全措施防止信息泄露。
+faq_058,privacy,Can customer support see my password?,No. Customer support cannot see your password. Never share your password or verification code with anyone.
+faq_059,privacy,客服会向我要验证码吗？,正规客服不会要求你提供密码、完整银行卡信息或短信验证码，请勿泄露敏感信息。
+faq_060,privacy,How can I report suspicious activity?,"If you notice suspicious account activity, change your password immediately and contact customer support."

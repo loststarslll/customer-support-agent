@@ -1,0 +1,67 @@
+[
+  {
+    "id": "order_followup_success",
+    "steps": [
+      {
+        "question": "我的订单怎么还没到？",
+        "expected_action": "ask_order_id",
+        "expected_waiting_for_input": true,
+        "expected_pending_action": "query_order"
+      },
+      {
+        "question": "10001",
+        "expected_action": "query_order",
+        "expected_skill": "order_query",
+        "expected_waiting_for_input": false,
+        "expected_tool_success": true,
+        "expected_order_id": "10001",
+        "expected_pending_action": null
+      }
+    ]
+  },
+  {
+    "id": "order_followup_invalid_then_success",
+    "steps": [
+      {
+        "question": "帮我看看订单到哪了",
+        "expected_action": "ask_order_id",
+        "expected_waiting_for_input": true,
+        "expected_pending_action": "query_order"
+      },
+      {
+        "question": "我找一下",
+        "expected_action": "ask_order_id",
+        "expected_waiting_for_input": true,
+        "expected_pending_action": "query_order"
+      },
+      {
+        "question": "10002",
+        "expected_action": "query_order",
+        "expected_skill": "order_query",
+        "expected_waiting_for_input": false,
+        "expected_tool_success": true,
+        "expected_order_id": "10002",
+        "expected_pending_action": null
+      }
+    ]
+  },
+  {
+    "id": "order_followup_not_found",
+    "steps": [
+      {
+        "question": "查询一下我的订单",
+        "expected_action": "ask_order_id",
+        "expected_waiting_for_input": true,
+        "expected_pending_action": "query_order"
+      },
+      {
+        "question": "99999",
+        "expected_action": "query_order",
+        "expected_skill": "order_query",
+        "expected_waiting_for_input": false,
+        "expected_tool_success": false,
+        "expected_pending_action": null
+      }
+    ]
+  }
+]

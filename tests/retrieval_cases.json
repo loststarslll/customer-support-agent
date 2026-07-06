@@ -1,0 +1,52 @@
+[
+  {
+    "id": "refund_zh_001",
+    "question": "退款一般多久到账？",
+    "expected_category": "refund"
+  },
+  {
+    "id": "refund_en_001",
+    "question": "How can I request a refund?",
+    "expected_category": "refund"
+  },
+  {
+    "id": "delivery_zh_001",
+    "question": "我的包裹一直没有送到怎么办？",
+    "expected_category": "delivery"
+  },
+  {
+    "id": "delivery_en_001",
+    "question": "Where can I track my package?",
+    "expected_category": "delivery"
+  },
+  {
+    "id": "payment_zh_001",
+    "question": "付款失败应该怎么办？",
+    "expected_category": "payment"
+  },
+  {
+    "id": "payment_en_001",
+    "question": "Why was my payment declined?",
+    "expected_category": "payment"
+  },
+  {
+    "id": "account_zh_001",
+    "question": "我忘记登录密码了。",
+    "expected_category": "account"
+  },
+  {
+    "id": "account_en_001",
+    "question": "I forgot my account password.",
+    "expected_category": "account"
+  },
+  {
+    "id": "damaged_zh_001",
+    "question": "收到的商品破损了怎么办？",
+    "expected_category": "damaged"
+  },
+  {
+    "id": "damaged_en_001",
+    "question": "The product arrived damaged.",
+    "expected_category": "damaged"
+  }
+]

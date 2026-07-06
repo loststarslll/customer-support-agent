@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tool_order_success_001",
+    "question": "帮我查订单10001",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": true,
+    "expected_order_id": "10001",
+    "expected_error": null
+  },
+  {
+    "id": "tool_order_success_002",
+    "question": "帮我查订单10002",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": true,
+    "expected_order_id": "10002",
+    "expected_error": null
+  },
+  {
+    "id": "tool_permission_denied_001",
+    "question": "帮我查订单10001",
+    "user_id": "user_002",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": false,
+    "expected_order_id": "",
+    "expected_error": "permission_denied"
+  },
+  {
+    "id": "tool_permission_denied_002",
+    "question": "帮我查订单10003",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": false,
+    "expected_order_id": "",
+    "expected_error": "permission_denied"
+  },
+  {
+    "id": "tool_order_not_found_001",
+    "question": "帮我查订单99999",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": false,
+    "expected_order_id": "",
+    "expected_error": "order_not_found"
+  }
+]

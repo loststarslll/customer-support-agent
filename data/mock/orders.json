@@ -1,0 +1,32 @@
+[
+  {
+    "order_id": "10001",
+    "user_id": "user_001",
+    "product": "Wireless Headphones",
+    "status": "shipped",
+    "carrier": "SF Express",
+    "tracking_number": "SF123456789",
+    "estimated_delivery": "2026-07-01",
+    "refund_status": "not_requested"
+  },
+  {
+    "order_id": "10002",
+    "user_id": "user_001",
+    "product": "Mechanical Keyboard",
+    "status": "delivered",
+    "carrier": "DHL",
+    "tracking_number": "DHL987654321",
+    "estimated_delivery": "2026-06-28",
+    "refund_status": "not_requested"
+  },
+  {
+    "order_id": "10003",
+    "user_id": "user_002",
+    "product": "USB-C Hub",
+    "status": "refund_processing",
+    "carrier": "UPS",
+    "tracking_number": "UPS555666777",
+    "estimated_delivery": "2026-06-25",
+    "refund_status": "processing"
+  }
+]

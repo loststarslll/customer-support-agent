@@ -1,0 +1,96 @@
+[
+  {
+    "id": "faq_refund_001",
+    "question": "退款一般多久到账？",
+    "expected_action": "search_faq",
+    "expected_skill": "faq_search",
+    "expected_category": "refund"
+  },
+  {
+    "id": "faq_refund_002",
+    "question": "How can I request a refund?",
+    "expected_action": "search_faq",
+    "expected_skill": "faq_search",
+    "expected_category": "refund"
+  },
+  {
+    "id": "faq_delivery_001",
+    "question": "我的包裹一直没有到，应该怎么办？",
+    "expected_action": "search_faq",
+    "expected_skill": "faq_search",
+    "expected_category": "delivery"
+  },
+  {
+    "id": "faq_delivery_002",
+    "question": "Where can I track my order?",
+    "expected_action": "search_faq",
+    "expected_skill": "faq_search",
+    "expected_category": "delivery"
+  },
+  {
+    "id": "faq_payment_001",
+    "question": "我的付款失败了怎么办？",
+    "expected_action": "search_faq",
+    "expected_skill": "faq_search",
+    "expected_category": "payment"
+  },
+  {
+    "id": "faq_account_001",
+    "question": "我忘记账户密码了。",
+    "expected_action": "search_faq",
+    "expected_skill": "faq_search",
+    "expected_category": "account"
+  },
+  {
+    "id": "faq_damaged_001",
+    "question": "收到的商品损坏了怎么办？",
+    "expected_action": "search_faq",
+    "expected_skill": "faq_search",
+    "expected_category": "damaged"
+  },
+  {
+    "id": "order_query_001",
+    "question": "帮我查一下订单10001到哪里了",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_order_id": "10001",
+    "expected_tool_success": true
+  },
+  {
+    "id": "order_query_002",
+    "question": "查询订单10002的状态",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_order_id": "10002",
+    "expected_tool_success": true
+  },
+  {
+    "id": "order_missing_id_001",
+    "question": "我的订单怎么还没到？",
+    "expected_action": "ask_order_id",
+    "expected_waiting_for_input": true
+  },
+  {
+    "id": "order_not_found_001",
+    "question": "帮我查一下订单99999",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_order_id": "99999",
+    "expected_tool_success": false
+  },
+  {
+    "id": "reject_001",
+    "question": "帮我写一首关于月亮的诗。",
+    "expected_action": "reject"
+  },
+  {
+    "id": "reject_002",
+    "question": "Python是什么？",
+    "expected_action": "reject"
+  },
+  {
+    "id": "reject_003",
+    "question": "今天天气怎么样？",
+    "expected_action": "reject"
+  }
+]
