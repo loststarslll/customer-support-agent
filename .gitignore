@@ -22,6 +22,8 @@ __pycache__/
 
 # 日志
 *.log
+logs_*.txt
+*.pid
 
 # 本地生成的向量索引
 data/indexes/

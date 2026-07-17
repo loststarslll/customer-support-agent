@@ -1,479 +1,585 @@
 [
   {
     "id": "public_zh_retrieval_0022",
-    "question": "商品在运输过程中损坏了，可以退货吗？",
+    "question": "我买的那个东西，寄到的时候都破了，能退吗？",
+    "standard_question": "商品在运输过程中损坏了，可以退货吗？",
     "expected_faq_id": "public_zh_faq_0003",
     "expected_category": "return",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0034",
-    "question": "买完东西后降价了，能申请退款吗？",
+    "question": "我刚买的东西降价了，能不能退差价啊？",
+    "standard_question": "买完东西后降价了，能申请退款吗？",
     "expected_faq_id": "public_zh_faq_0058",
     "expected_category": "refund",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0035",
-    "question": "促销活动期间买的商品能退货吗？",
+    "question": "我在搞活动的时候买的东西能退不？",
+    "standard_question": "促销活动期间买的商品能退货吗？",
     "expected_faq_id": "public_zh_faq_0071",
     "expected_category": "refund",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0006",
-    "question": "缺货的商品可以申请补货吗？",
+    "question": "那个没货的东西能不能申请补货啊？",
+    "standard_question": "缺货的商品可以申请补货吗？",
     "expected_faq_id": "public_zh_faq_0062",
     "expected_category": "product",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0017",
-    "question": "我收到的商品不对怎么办？",
+    "question": "喂，我收到的货不对啊，不是我买的那款，咋整？",
+    "standard_question": "我收到的商品不对怎么办？",
     "expected_faq_id": "public_zh_faq_0061",
     "expected_category": "return",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0025",
-    "question": "我的个人信息和支付信息安全吗？",
+    "question": "我付钱的时候，你们那边安全吗？我的信息会不会被泄露啊？",
+    "standard_question": "我的个人信息和支付信息安全吗？",
     "expected_faq_id": "public_zh_faq_0082",
     "expected_category": "payment",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0046",
-    "question": "发货后多久能到？",
+    "question": "你好，我想问一下，我那个东西发出来了，一般几天能到啊？",
+    "standard_question": "发货后多久能到？",
     "expected_faq_id": "public_zh_faq_0054",
     "expected_category": "delivery",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0038",
-    "question": "用促销礼品卡买的商品能退货吗？",
+    "question": "我用那个促销送的礼品卡买的东西，能退不？",
+    "standard_question": "用促销礼品卡买的商品能退货吗？",
     "expected_faq_id": "public_zh_faq_0079",
     "expected_category": "refund",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0007",
-    "question": "缺货的商品可以帮我预留吗？",
+    "question": "那个没货的东西能不能帮我留一下啊？",
+    "standard_question": "缺货的商品可以帮我预留吗？",
     "expected_faq_id": "public_zh_faq_0028",
     "expected_category": "product",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0011",
-    "question": "你们提供礼品包装服务吗？",
+    "question": "你们有没有那种送礼的包装啊？",
+    "standard_question": "你们提供礼品包装服务吗？",
     "expected_faq_id": "public_zh_faq_0002",
     "expected_category": "general",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0048",
-    "question": "你们有加急配送服务吗？",
+    "question": "那个，能帮我快点送吗？有没有加急的快递啊？",
+    "standard_question": "你们有加急配送服务吗？",
     "expected_faq_id": "public_zh_faq_0051",
     "expected_category": "delivery",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0051",
-    "question": "订单可以申请发票吗？",
+    "question": "我这个订单能开发票不？",
+    "standard_question": "订单可以申请发票吗？",
     "expected_faq_id": "public_zh_faq_0027",
     "expected_category": "invoice",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0001",
-    "question": "商品显示‘售罄’但可以预购，我还能下单吗？",
+    "question": "东西显示没货了但是能预购，还能拍吗？",
+    "standard_question": "商品显示‘售罄’但可以预购，我还能下单吗？",
     "expected_faq_id": "public_zh_faq_0023",
     "expected_category": "product",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0020",
-    "question": "没有小票能退货吗？",
+    "question": "我小票弄丢了，还能退吗？",
+    "standard_question": "没有小票能退货吗？",
     "expected_faq_id": "public_zh_faq_0010",
     "expected_category": "return",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0002",
-    "question": "如果你们网站上没有我想要的产品，可以申请上架吗？",
+    "question": "你们网站上没有我想买的东西，能不能申请上架啊？",
+    "standard_question": "如果你们网站上没有我想要的产品，可以申请上架吗？",
     "expected_faq_id": "public_zh_faq_0072",
     "expected_category": "product",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0016",
-    "question": "你们有在线客服吗？",
+    "question": "喂，你们有没有那种在线聊天的客服啊？",
+    "standard_question": "你们有在线客服吗？",
     "expected_faq_id": "public_zh_faq_0008",
     "expected_category": "general",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0033",
-    "question": "打折或促销时买的商品能退货吗？",
+    "question": "我那个打折时候买的东西还能退不？",
+    "standard_question": "打折或促销时买的商品能退货吗？",
     "expected_faq_id": "public_zh_faq_0011",
     "expected_category": "refund",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0029",
-    "question": "我的优惠码用不了怎么办？",
+    "question": "我那个优惠码怎么用不了啊，咋回事？",
+    "standard_question": "我的优惠码用不了怎么办？",
     "expected_faq_id": "public_zh_faq_0084",
     "expected_category": "coupon",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0012",
-    "question": "怎么联系客服？",
+    "question": "我想找客服，怎么联系你们啊？",
+    "standard_question": "怎么联系客服？",
     "expected_faq_id": "public_zh_faq_0059",
     "expected_category": "general",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0013",
-    "question": "下单时能加个礼品留言吗？",
+    "question": "下单的时候能不能顺便写个礼品留言啊？",
+    "standard_question": "下单时能加个礼品留言吗？",
     "expected_faq_id": "public_zh_faq_0045",
     "expected_category": "general",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0023",
-    "question": "退货时没有原包装可以吗？",
+    "question": "我退货的时候包装盒找不到了，还能退吗？",
+    "standard_question": "退货时没有原包装可以吗？",
     "expected_faq_id": "public_zh_faq_0033",
     "expected_category": "return",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0050",
-    "question": "我的包裹丢了或者坏了怎么办？",
+    "question": "喂，我那个快递好像不见了，怎么办啊？",
+    "standard_question": "我的包裹丢了或者坏了怎么办？",
     "expected_faq_id": "public_zh_faq_0044",
     "expected_category": "delivery",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0019",
-    "question": "如果产品是因为我使用不当损坏的，还能退货吗？",
+    "question": "我把东西用坏了，还能退不？",
+    "standard_question": "如果产品是因为我使用不当损坏的，还能退货吗？",
     "expected_faq_id": "public_zh_faq_0067",
     "expected_category": "return",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0028",
-    "question": "你们有批量或批发折扣吗？",
+    "question": "买多的话有没有优惠啊？比如批发价什么的？",
+    "standard_question": "你们有批量或批发折扣吗？",
     "expected_faq_id": "public_zh_faq_0083",
     "expected_category": "coupon",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0031",
-    "question": "你们的退货政策是什么？",
+    "question": "我想问一下，退货是咋规定的啊？",
+    "standard_question": "你们的退货政策是什么？",
     "expected_faq_id": "public_zh_faq_0087",
     "expected_category": "refund",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0027",
-    "question": "一个订单能用多个优惠码吗？",
+    "question": "我有个订单，能不能同时用几个优惠券啊？",
+    "standard_question": "一个订单能用多个优惠码吗？",
     "expected_faq_id": "public_zh_faq_0064",
     "expected_category": "coupon",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0052",
-    "question": "产品损坏了，可以申请维修或换货吗？",
+    "question": "我买的东西坏了，能修或者换个新的不？",
+    "standard_question": "产品损坏了，可以申请维修或换货吗？",
     "expected_faq_id": "public_zh_faq_0035",
     "expected_category": "exchange",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0024",
-    "question": "如果商品是作为套装或组合购买的，可以退货吗？",
+    "question": "我买的是那种套装的东西，能退不？",
+    "standard_question": "如果商品是作为套装或组合购买的，可以退货吗？",
     "expected_faq_id": "public_zh_faq_0006",
     "expected_category": "return",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0008",
-    "question": "怎么给商品写评价？",
+    "question": "我想给买的东西写个评价，咋弄啊？",
+    "standard_question": "怎么给商品写评价？",
     "expected_faq_id": "public_zh_faq_0014",
     "expected_category": "product",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0040",
-    "question": "怎么注册账号？",
+    "question": "我想注册个账号，怎么弄啊？",
+    "standard_question": "怎么注册账号？",
     "expected_faq_id": "public_zh_faq_0065",
     "expected_category": "account",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0009",
-    "question": "可以打电话下单吗？",
+    "question": "那个，能打电话订东西吗？",
+    "standard_question": "可以打电话下单吗？",
     "expected_faq_id": "public_zh_faq_0037",
     "expected_category": "general",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0010",
-    "question": "请问怎么申请你们公司的工作？",
+    "question": "你们公司咋投简历找工作啊？",
+    "standard_question": "请问怎么申请你们公司的工作？",
     "expected_faq_id": "public_zh_faq_0076",
     "expected_category": "general",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0030",
-    "question": "你们有会员积分或忠诚度计划吗？",
+    "question": "你们有没有那种会员积分啥的，买东西能攒分的那种？",
+    "standard_question": "你们有会员积分或忠诚度计划吗？",
     "expected_faq_id": "public_zh_faq_0007",
     "expected_category": "coupon",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0042",
-    "question": "怎么取消订阅你们的邮件通知？",
+    "question": "我不想再收到你们的邮件了，怎么取消啊？",
+    "standard_question": "怎么取消订阅你们的邮件通知？",
     "expected_faq_id": "public_zh_faq_0068",
     "expected_category": "account",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0032",
-    "question": "特价清仓商品能退货吗？",
+    "question": "那个特价清仓的，能不能退啊？",
+    "standard_question": "特价清仓商品能退货吗？",
     "expected_faq_id": "public_zh_faq_0073",
     "expected_category": "refund",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0039",
-    "question": "怎么重置密码？",
+    "question": "我密码忘了怎么改啊？",
+    "standard_question": "怎么重置密码？",
     "expected_faq_id": "public_zh_faq_0075",
     "expected_category": "account",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0043",
-    "question": "我可以下单把商品寄到其他国家吗？",
+    "question": "我想买东西寄到国外去，行不行啊？",
+    "standard_question": "我可以下单把商品寄到其他国家吗？",
     "expected_faq_id": "public_zh_faq_0025",
     "expected_category": "delivery",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0037",
-    "question": "用优惠券买的商品能退货吗？",
+    "question": "我用的优惠券买的那个东西，能退不？",
+    "standard_question": "用优惠券买的商品能退货吗？",
     "expected_faq_id": "public_zh_faq_0078",
     "expected_category": "refund",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0014",
-    "question": "订单还能取消吗？",
+    "question": "喂，我想问下，我那个单子还能退掉吗？",
+    "standard_question": "订单还能取消吗？",
     "expected_faq_id": "public_zh_faq_0077",
     "expected_category": "general",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0005",
-    "question": "你们有价格匹配政策吗？",
+    "question": "你们那个价格匹配是怎么弄的？我在别的网站上看到更便宜的了，能给便宜点不？",
+    "standard_question": "你们有价格匹配政策吗？",
     "expected_faq_id": "public_zh_faq_0080",
     "expected_category": "product",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0053",
-    "question": "你们的隐私政策是什么？",
+    "question": "你们那个隐私政策是啥样的啊？",
+    "standard_question": "你们的隐私政策是什么？",
     "expected_faq_id": "public_zh_faq_0089",
     "expected_category": "privacy",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0026",
-    "question": "你们支持哪些支付方式？",
+    "question": "你们能用啥支付啊？",
+    "standard_question": "你们支持哪些支付方式？",
     "expected_faq_id": "public_zh_faq_0004",
     "expected_category": "payment",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0047",
-    "question": "我可以把商品作为礼物下单吗？",
+    "question": "我想把东西当礼物送人，能直接寄给那个人吗？",
+    "standard_question": "我可以把商品作为礼物下单吗？",
     "expected_faq_id": "public_zh_faq_0074",
     "expected_category": "delivery",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0003",
-    "question": "产品显示为‘已停产’，还能申请购买吗？",
+    "question": "我那个东西显示停产了，还能买不？",
+    "standard_question": "产品显示为‘已停产’，还能申请购买吗？",
     "expected_faq_id": "public_zh_faq_0021",
     "expected_category": "product",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0049",
-    "question": "不注册账号能下单吗？",
+    "question": "我不注册账号也能买东西吗？",
+    "standard_question": "不注册账号能下单吗？",
     "expected_faq_id": "public_zh_faq_0048",
     "expected_category": "delivery",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0004",
-    "question": "商品显示为‘即将上市’但可以预购，我能下单吗？",
+    "question": "那个商品写着即将上市，但好像可以提前买，我能不能先下单啊？",
+    "standard_question": "商品显示为‘即将上市’但可以预购，我能下单吗？",
     "expected_faq_id": "public_zh_faq_0069",
     "expected_category": "product",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0021",
-    "question": "没有原始小票还能退货吗？",
+    "question": "我把小票弄丢了，还能退东西吗？",
+    "standard_question": "没有原始小票还能退货吗？",
     "expected_faq_id": "public_zh_faq_0056",
     "expected_category": "return",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0044",
-    "question": "你们支持国际配送吗？",
+    "question": "那个，能寄到国外不？",
+    "standard_question": "你们支持国际配送吗？",
     "expected_faq_id": "public_zh_faq_0055",
     "expected_category": "delivery",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0015",
-    "question": "你们的营业时间是什么？",
+    "question": "你们啥时候上班啊？",
+    "standard_question": "你们的营业时间是什么？",
     "expected_faq_id": "public_zh_faq_0022",
     "expected_category": "general",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0036",
-    "question": "清仓或特价商品能退货吗？",
+    "question": "那个打折的或者特价的东西能不能退啊？",
+    "standard_question": "清仓或特价商品能退货吗？",
     "expected_faq_id": "public_zh_faq_0024",
     "expected_category": "refund",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0045",
-    "question": "怎么查我的订单物流？",
+    "question": "我想看看我的东西寄到哪了，怎么查物流啊？",
+    "standard_question": "怎么查我的订单物流？",
     "expected_faq_id": "public_zh_faq_0047",
     "expected_category": "delivery",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0041",
-    "question": "怎么修改我的账户信息？",
+    "question": "我想改一下我的账户信息，咋弄啊？",
+    "standard_question": "怎么修改我的账户信息？",
     "expected_faq_id": "public_zh_faq_0018",
     "expected_category": "account",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   },
   {
     "id": "public_zh_retrieval_0018",
-    "question": "我不想要了，能退货吗？",
+    "question": "嗯，我不想要这个东西了，能不能退啊？",
+    "standard_question": "我不想要了，能退货吗？",
     "expected_faq_id": "public_zh_faq_0070",
     "expected_category": "return",
     "source_title": "MakTek Customer Support FAQs Dataset",
     "dataset_source": "MakTek/Customer_support_faqs_dataset",
-    "language": "zh"
+    "language": "zh",
+    "query_style": "oral"
   }
 ]

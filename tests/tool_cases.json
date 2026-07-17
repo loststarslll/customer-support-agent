@@ -1,6 +1,6 @@
 [
   {
-    "id": "tool_order_success_001",
+    "id": "tool_success_cn_001",
     "question": "帮我查订单10001",
     "user_id": "user_001",
     "expected_action": "query_order",
@@ -10,8 +10,8 @@
     "expected_error": null
   },
   {
-    "id": "tool_order_success_002",
-    "question": "帮我查订单10002",
+    "id": "tool_success_cn_002",
+    "question": "订单10002现在到哪了？",
     "user_id": "user_001",
     "expected_action": "query_order",
     "expected_skill": "order_query",
@@ -19,6 +19,138 @@
     "expected_order_id": "10002",
     "expected_error": null
   },
+  {
+    "id": "tool_success_cn_003",
+    "question": "麻烦帮我看一下10003这个订单",
+    "user_id": "user_002",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": true,
+    "expected_order_id": "10003",
+    "expected_error": null
+  },
+  {
+    "id": "tool_success_cn_004",
+    "question": "订单号是 10001 ，帮我查一下物流",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": true,
+    "expected_order_id": "10001",
+    "expected_error": null
+  },
+  {
+    "id": "tool_success_cn_005",
+    "question": "我买的耳机订单10001为什么还没到？",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": true,
+    "expected_order_id": "10001",
+    "expected_error": null
+  },
+  {
+    "id": "tool_success_cn_006",
+    "question": "请帮忙查询一下订单编号10002，谢谢",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": true,
+    "expected_order_id": "10002",
+    "expected_error": null
+  },
+  {
+    "id": "tool_success_cn_007",
+    "question": "10001这个单子是不是已经发货了",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": true,
+    "expected_order_id": "10001",
+    "expected_error": null
+  },
+  {
+    "id": "tool_success_cn_008",
+    "question": "我想知道订单10002的配送状态",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": true,
+    "expected_order_id": "10002",
+    "expected_error": null
+  },
+  {
+    "id": "tool_success_cn_009",
+    "question": "订单：10003，查一下现在处理到哪了",
+    "user_id": "user_002",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": true,
+    "expected_order_id": "10003",
+    "expected_error": null
+  },
+  {
+    "id": "tool_success_cn_010",
+    "question": "帮我确认10001这个订单的预计送达时间",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": true,
+    "expected_order_id": "10001",
+    "expected_error": null
+  },
+
+  {
+    "id": "tool_success_en_001",
+    "question": "Please check order 10001 for me.",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": true,
+    "expected_order_id": "10001",
+    "expected_error": null
+  },
+  {
+    "id": "tool_success_en_002",
+    "question": "Where is my order 10002?",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": true,
+    "expected_order_id": "10002",
+    "expected_error": null
+  },
+  {
+    "id": "tool_success_en_003",
+    "question": "Can you help me track order 10003?",
+    "user_id": "user_002",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": true,
+    "expected_order_id": "10003",
+    "expected_error": null
+  },
+  {
+    "id": "tool_success_en_004",
+    "question": "I want to know the shipping status of order 10001.",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": true,
+    "expected_order_id": "10001",
+    "expected_error": null
+  },
+  {
+    "id": "tool_success_en_005",
+    "question": "Order number 10002, please check the delivery status.",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": true,
+    "expected_order_id": "10002",
+    "expected_error": null
+  },
+
   {
     "id": "tool_permission_denied_001",
     "question": "帮我查订单10001",
@@ -31,7 +163,7 @@
   },
   {
     "id": "tool_permission_denied_002",
-    "question": "帮我查订单10003",
+    "question": "订单10003现在是什么状态？",
     "user_id": "user_001",
     "expected_action": "query_order",
     "expected_skill": "order_query",
@@ -39,6 +171,57 @@
     "expected_order_id": "",
     "expected_error": "permission_denied"
   },
+  {
+    "id": "tool_permission_denied_003",
+    "question": "Please check order 10003.",
+    "user_id": "user_003",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": false,
+    "expected_order_id": "",
+    "expected_error": "permission_denied"
+  },
+  {
+    "id": "tool_permission_denied_004",
+    "question": "我想看一下10002这个订单",
+    "user_id": "user_002",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": false,
+    "expected_order_id": "",
+    "expected_error": "permission_denied"
+  },
+  {
+    "id": "tool_permission_denied_005",
+    "question": "Can you track order 10001?",
+    "user_id": "user_003",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": false,
+    "expected_order_id": "",
+    "expected_error": "permission_denied"
+  },
+  {
+    "id": "tool_permission_denied_006",
+    "question": "订单10003是不是退款了？",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": false,
+    "expected_order_id": "",
+    "expected_error": "permission_denied"
+  },
+  {
+    "id": "tool_permission_denied_007",
+    "question": "帮我看10001这个订单的收货地址",
+    "user_id": "user_002",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": false,
+    "expected_order_id": "",
+    "expected_error": "permission_denied"
+  },
+
   {
     "id": "tool_order_not_found_001",
     "question": "帮我查订单99999",
@@ -48,5 +231,219 @@
     "expected_tool_success": false,
     "expected_order_id": "",
     "expected_error": "order_not_found"
+  },
+  {
+    "id": "tool_order_not_found_002",
+    "question": "订单88888为什么查不到？",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": false,
+    "expected_order_id": "",
+    "expected_error": "order_not_found"
+  },
+  {
+    "id": "tool_order_not_found_003",
+    "question": "Can you check order 77777?",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": false,
+    "expected_order_id": "",
+    "expected_error": "order_not_found"
+  },
+  {
+    "id": "tool_order_not_found_004",
+    "question": "订单12345是不是发货了？",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": false,
+    "expected_order_id": "",
+    "expected_error": "order_not_found"
+  },
+  {
+    "id": "tool_order_not_found_005",
+    "question": "帮我查一下不存在的订单66666",
+    "user_id": "user_002",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": false,
+    "expected_order_id": "",
+    "expected_error": "order_not_found"
+  },
+
+  {
+    "id": "tool_ask_order_id_001",
+    "question": "我的订单怎么还没到？",
+    "user_id": "user_001",
+    "expected_action": "ask_order_id",
+    "expected_skill": null,
+    "expected_tool_success": null,
+    "expected_order_id": "",
+    "expected_error": null
+  },
+  {
+    "id": "tool_ask_order_id_002",
+    "question": "帮我查一下物流",
+    "user_id": "user_001",
+    "expected_action": "ask_order_id",
+    "expected_skill": null,
+    "expected_tool_success": null,
+    "expected_order_id": "",
+    "expected_error": null
+  },
+  {
+    "id": "tool_ask_order_id_003",
+    "question": "我的包裹还没收到",
+    "user_id": "user_001",
+    "expected_action": "ask_order_id",
+    "expected_skill": null,
+    "expected_tool_success": null,
+    "expected_order_id": "",
+    "expected_error": null
+  },
+  {
+    "id": "tool_ask_order_id_004",
+    "question": "Where is my package?",
+    "user_id": "user_001",
+    "expected_action": "ask_order_id",
+    "expected_skill": null,
+    "expected_tool_success": null,
+    "expected_order_id": "",
+    "expected_error": null
+  },
+  {
+    "id": "tool_ask_order_id_005",
+    "question": "Can you check my delivery?",
+    "user_id": "user_001",
+    "expected_action": "ask_order_id",
+    "expected_skill": null,
+    "expected_tool_success": null,
+    "expected_order_id": "",
+    "expected_error": null
+  },
+  {
+    "id": "tool_ask_order_id_006",
+    "question": "我想知道我的东西什么时候到",
+    "user_id": "user_001",
+    "expected_action": "ask_order_id",
+    "expected_skill": null,
+    "expected_tool_success": null,
+    "expected_order_id": "",
+    "expected_error": null
+  },
+
+  {
+    "id": "tool_multi_number_001",
+    "question": "我有两个订单10001和10002，先帮我查10001",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": true,
+    "expected_order_id": "10001",
+    "expected_error": null
+  },
+  {
+    "id": "tool_multi_number_002",
+    "question": "10001和10003哪个到了？",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": true,
+    "expected_order_id": "10001",
+    "expected_error": null
+  },
+  {
+    "id": "tool_multi_number_003",
+    "question": "我下了2件商品，订单号10002，帮我看看物流",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": true,
+    "expected_order_id": "10002",
+    "expected_error": null
+  },
+  {
+    "id": "tool_multi_number_004",
+    "question": "我等了5天了，订单10002怎么还没到？",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": true,
+    "expected_order_id": "10002",
+    "expected_error": null
+  },
+  {
+    "id": "tool_multi_number_005",
+    "question": "我想买3个耳机，能查一下订单10001吗？",
+    "user_id": "user_001",
+    "expected_action": "query_order",
+    "expected_skill": "order_query",
+    "expected_tool_success": true,
+    "expected_order_id": "10001",
+    "expected_error": null
+  },
+
+  {
+    "id": "tool_non_order_faq_001",
+    "question": "退款一般多久到账？",
+    "user_id": "user_001",
+    "expected_action": "search_faq",
+    "expected_skill": "faq_search",
+    "expected_tool_success": null,
+    "expected_order_id": "",
+    "expected_error": null
+  },
+  {
+    "id": "tool_non_order_faq_002",
+    "question": "优惠券为什么用不了？",
+    "user_id": "user_001",
+    "expected_action": "search_faq",
+    "expected_skill": "faq_search",
+    "expected_tool_success": null,
+    "expected_order_id": "",
+    "expected_error": null
+  },
+  {
+    "id": "tool_non_order_faq_003",
+    "question": "怎么开发票？",
+    "user_id": "user_001",
+    "expected_action": "search_faq",
+    "expected_skill": "faq_search",
+    "expected_tool_success": null,
+    "expected_order_id": "",
+    "expected_error": null
+  },
+  {
+    "id": "tool_non_order_faq_004",
+    "question": "我的个人信息安全吗？",
+    "user_id": "user_001",
+    "expected_action": "search_faq",
+    "expected_skill": "faq_search",
+    "expected_tool_success": null,
+    "expected_order_id": "",
+    "expected_error": null
+  },
+
+  {
+    "id": "tool_sensitive_001",
+    "question": "客服会向我要验证码吗？",
+    "user_id": "user_001",
+    "expected_action": "search_faq",
+    "expected_skill": "faq_search",
+    "expected_tool_success": null,
+    "expected_order_id": "",
+    "expected_error": null
+  },
+  {
+    "id": "tool_sensitive_002",
+    "question": "我的密码忘了怎么办？",
+    "user_id": "user_001",
+    "expected_action": "search_faq",
+    "expected_skill": "faq_search",
+    "expected_tool_success": null,
+    "expected_order_id": "",
+    "expected_error": null
   }
 ]

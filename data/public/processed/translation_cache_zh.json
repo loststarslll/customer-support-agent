@@ -1,0 +1,358 @@
+{
+  "Can I request a product if it is listed as 'coming soon' but not available for pre-order?|||If a product is listed as 'coming soon' but not available for pre-order, you will need to wait until it is officially released and becomes available for purchase.": {
+    "question_zh": "商品显示为‘即将推出’但无法预购，我能申请购买吗？",
+    "answer_zh": "如果商品显示为‘即将推出’且未开放预购，您需要等待该商品正式发布并上架销售后才能购买。"
+  },
+  "Do you offer gift wrapping services?|||Yes, we offer gift wrapping services for an additional fee. During the checkout process, you can select the option to add gift wrapping to your order.": {
+    "question_zh": "你们提供礼品包装服务吗？",
+    "answer_zh": "是的，我们提供礼品包装服务，需额外收费。在结算过程中，您可以选择为订单添加礼品包装的选项。"
+  },
+  "Can I return a product if it was damaged during shipping?|||If your product was damaged during shipping, please contact our customer support team immediately. We will guide you through the return and replacement process.": {
+    "question_zh": "商品在运输过程中损坏了，可以退货吗？",
+    "answer_zh": "如果您的商品在运输过程中损坏，请立即联系我们的客服团队。我们将为您提供退货和换货的流程指导。"
+  },
+  "What payment methods do you accept?|||We accept major credit cards, debit cards, and PayPal as payment methods for online orders.": {
+    "question_zh": "你们支持哪些支付方式？",
+    "answer_zh": "我们接受主流信用卡、借记卡以及PayPal作为在线订单的支付方式。"
+  },
+  "Can I order a product if it is listed as 'pre-order' but available for backorder?|||If a product is listed as 'pre-order' and available for backorder, you can place an order to secure your item. The product will be shipped once it becomes available.": {
+    "question_zh": "商品显示为‘预售’但支持缺货订购，我能下单吗？",
+    "answer_zh": "如果商品标注为‘预售’且支持缺货订购，您可以下单锁定库存。商品将在到货后为您安排发货。"
+  },
+  "Can I return a product if it was purchased as part of a bundle or set?|||If a product was purchased as part of a bundle or set, the return policy may vary. Please refer to the specific terms and conditions or contact our customer support team for further guidance.": {
+    "question_zh": "如果商品是作为套装或组合购买的，可以退货吗？",
+    "answer_zh": "套装或组合商品的退货政策可能有所不同，请参考具体的条款与条件，或联系我们的客服团队获取进一步指导。"
+  },
+  "Do you have a loyalty program?|||Yes, we have a loyalty program where you can earn points for every purchase. These points can be redeemed for discounts on future orders. Please visit our website to learn more and join the program.": {
+    "question_zh": "你们有会员积分或忠诚度计划吗？",
+    "answer_zh": "有的，我们设有会员忠诚计划，您每次购物均可累积积分，积分可在后续订单中抵扣金额。详情及加入方式请访问我们的官网了解。"
+  },
+  "Do you offer live chat support?|||Yes, we offer live chat support on our website during our business hours. Look for the chat icon in the bottom right corner to initiate a chat with our customer support team.": {
+    "question_zh": "你们有在线客服吗？",
+    "answer_zh": "有的，我们在工作时间内提供网站在线客服支持。您可以在页面右下角找到聊天图标，点击即可与我们的客服团队联系。"
+  },
+  "Can I request a product that is currently out of stock to be reserved for me?|||We do not offer reservations for out-of-stock products. However, you can sign up for product notifications to be alerted when it becomes available again.": {
+    "question_zh": "缺货的商品可以帮我预留吗？",
+    "answer_zh": "很抱歉，我们暂不支持缺货商品的预留服务。不过，您可以开启到货通知，商品补货后会第一时间提醒您。"
+  },
+  "Can I return a product without a receipt?|||A receipt or proof of purchase is usually required for returns. Please refer to our return policy or contact our customer support team for assistance.": {
+    "question_zh": "没有小票能退货吗？",
+    "answer_zh": "退货通常需要提供收据或购买凭证。建议您查阅我们的退货政策，或联系客服团队获取帮助。"
+  },
+  "Can I return a product if it was purchased during a sale or with a discount?|||Yes, you can return a product purchased during a sale or with a discount. The refund will be processed based on the amount paid after the discount.": {
+    "question_zh": "打折或促销时买的商品能退货吗？",
+    "answer_zh": "可以退货。退款金额将按您实际支付的折扣后价格处理。"
+  },
+  "Can I order a product if it is listed as 'out of stock' but available for pre-order?|||If a product is available for pre-order, you can place an order to secure your item. The product will be shipped once it becomes available.": {
+    "question_zh": "商品显示为“缺货”但可以预购，我能下单吗？",
+    "answer_zh": "如果商品支持预购，您可以下单锁定库存，商品将在到货后为您发货。"
+  },
+  "Can I request a product that is listed as 'out of stock' to be restocked?|||We aim to restock popular products whenever possible. Please sign up for product notifications to be alerted when the item becomes available again.": {
+    "question_zh": "显示缺货的商品还能申请补货吗？",
+    "answer_zh": "我们会尽量为热门商品安排补货。建议您开启商品到货通知，以便在商品重新上架时第一时间收到提醒。"
+  },
+  "How can I leave a product review?|||To leave a product review, navigate to the product page on our website and click on the 'Write a Review' button. You can share your feedback and rating based on your experience with the product.": {
+    "question_zh": "怎么给商品写评价？",
+    "answer_zh": "请前往我们网站的商品页面，点击“写评价”按钮，即可根据您的使用体验分享反馈和评分。"
+  },
+  "Can I order a product if it is listed as 'on hold'?|||If a product is listed as 'on hold,' it is temporarily unavailable for purchase. Please check back later or sign up for notifications when it becomes available.": {
+    "question_zh": "商品显示为“暂停销售”状态，还能下单吗？",
+    "answer_zh": "如果商品显示为“暂停销售”，说明该商品暂时无法购买。建议您稍后再查看，或开启到货通知，以便在商品恢复销售时第一时间收到提醒。"
+  },
+  "Can I request a custom order or personalized product?|||We do not currently offer custom orders or personalized products. Please explore the available products on our website.": {
+    "question_zh": "可以定制或个性化产品吗？",
+    "answer_zh": "我们目前暂不支持定制或个性化产品，建议您浏览网站上的现有商品进行选购。"
+  },
+  "Can I order a product if it is listed as 'discontinued' but still visible on the website?|||If a product is listed as 'discontinued' but still visible on the website, it may be an error. Please contact our customer support team for clarification.": {
+    "question_zh": "商品页面显示‘已停产’，但还能看到，能下单吗？",
+    "answer_zh": "如果商品标注为‘已停产’但仍显示在网站上，可能是系统错误。请联系我们的客服团队进行确认。"
+  },
+  "How do I update my account information?|||To update your account information, log in to your account, navigate to the 'Account Settings' section, and make the necessary changes.": {
+    "question_zh": "怎么修改我的账户信息？",
+    "answer_zh": "请登录您的账户，进入“账户设置”页面，即可进行所需信息的修改。"
+  },
+  "Can I return a product if it was purchased with a gift card?|||Yes, you can return a product purchased with a gift card. The refund will be issued in the form of store credit or a new gift card.": {
+    "question_zh": "用礼品卡买的商品能退货吗？",
+    "answer_zh": "可以，使用礼品卡购买的商品支持退货。退款将以店铺余额或新礼品卡的形式返还给您。"
+  },
+  "Can I order a product if it is listed as 'temporarily unavailable'?|||If a product is listed as 'temporarily unavailable,' it is out of stock but may be restocked in the future. Please check back later or sign up for notifications.": {
+    "question_zh": "商品显示‘暂时缺货’还能下单吗？",
+    "answer_zh": "如果商品显示为‘暂时缺货’，说明当前库存已售罄，但未来可能会补货。建议您稍后再查看，或开启到货通知。"
+  },
+  "Can I request a product if it is listed as 'discontinued'?|||Unfortunately, if a product is listed as 'discontinued,' it is no longer available for purchase. We recommend exploring alternative products on our website.": {
+    "question_zh": "产品显示为‘已停产’，还能申请购买吗？",
+    "answer_zh": "很抱歉，如果产品标注为‘已停产’，则代表该商品已无法购买。建议您在我们的网站上查看其他替代产品。"
+  },
+  "What are your business hours?|||Our business hours are [working hours]. During these hours, our customer support team is available to assist you with any inquiries or issues.": {
+    "question_zh": "你们的营业时间是什么？",
+    "answer_zh": "我们的营业时间为[工作时间]。在此期间，客服团队将为您提供咨询和问题处理服务。"
+  },
+  "Can I order a product if it is listed as 'sold out' but available for pre-order?|||If a product is listed as 'sold out' but available for pre-order, you can place an order to secure your item. The product will be shipped once it becomes available.": {
+    "question_zh": "商品显示‘售罄’但可以预购，我还能下单吗？",
+    "answer_zh": "如果商品显示‘售罄’但支持预购，您可以下单锁定库存。商品到货后我们会尽快为您发货。"
+  },
+  "Can I return a product if it was a clearance or final sale item?|||Clearance or final sale items are typically non-returnable and non-refundable. Please review the product description or contact our customer support team for more information.": {
+    "question_zh": "清仓或特价商品能退货吗？",
+    "answer_zh": "清仓或特价商品通常不支持退货和退款。请查看商品描述或联系我们的客服团队了解更多信息。"
+  },
+  "Can I order a product for delivery to a different country?|||Yes, we offer international shipping to select countries. Please review the available shipping destinations during checkout or contact our customer support for assistance.": {
+    "question_zh": "我可以下单把商品寄到其他国家吗？",
+    "answer_zh": "可以，我们提供部分国家的国际配送服务。请在结账时查看可配送的目的地，或联系我们的客服获取帮助。"
+  },
+  "Can I change my shipping address after placing an order?|||If you need to change your shipping address, please contact our customer support team as soon as possible. We will do our best to update the address if the order has not been shipped yet.": {
+    "question_zh": "下单后还能修改收货地址吗？",
+    "answer_zh": "如需修改收货地址，请尽快联系我们的客服团队。若订单尚未发货，我们会尽力为您更新地址信息。"
+  },
+  "Can I request an invoice for my order?|||Yes, an invoice is usually included with your order. If you require a separate invoice, please contact our customer support team with your order details.": {
+    "question_zh": "订单可以申请发票吗？",
+    "answer_zh": "可以的，通常订单中会附带发票。如果您需要单独开具发票，请联系我们的客服团队并提供订单详情。"
+  },
+  "Can I request a product that is listed as 'out of stock' to be reserved for me?|||We do not offer reservations for out-of-stock products. However, you can sign up for product notifications to be alerted when the item becomes available again.": {
+    "question_zh": "缺货的商品可以帮我预留吗？",
+    "answer_zh": "很抱歉，我们暂不支持为缺货商品提供预留服务。不过，您可以开启到货通知，商品补货后会第一时间提醒您。"
+  },
+  "Do you offer installation services for your products?|||Installation services are available for select products. Please check the product description or contact our customer support team for more information and to request installation services.": {
+    "question_zh": "你们提供产品安装服务吗？",
+    "answer_zh": "部分产品支持安装服务。请查看商品详情或联系客服了解具体信息并申请安装。"
+  },
+  "Can I request a product that is out of stock to be restocked?|||We strive to restock popular products whenever possible. Please sign up for product notifications to be informed when the item becomes available again.": {
+    "question_zh": "缺货的商品还能补货吗？我可以申请补货吗？",
+    "answer_zh": "我们会尽量为热销商品安排补货。建议您开启商品到货通知，以便在商品重新上架时第一时间收到提醒。"
+  },
+  "Can I request a product that is listed as 'limited edition' to be restocked?|||Once a limited edition product is sold out, it may not be restocked. Limited edition items are available for a limited time only, so we recommend purchasing them while they are available.": {
+    "question_zh": "限时发售的商品卖完了还能补货吗？",
+    "answer_zh": "限时发售商品一旦售罄，通常不会再次补货。这类商品仅在限定时间内供应，建议您在可购买时及时下单。"
+  },
+  "Can I order a product that is listed as 'pre-order' with other in-stock items?|||Yes, you can place an order with a mix of pre-order and in-stock items. However, please note that the entire order will be shipped once all items are available.": {
+    "question_zh": "预购商品能和现货商品一起下单吗？",
+    "answer_zh": "可以，您可以将预购商品与现货商品合并下单。但请注意，整笔订单将在所有商品到货后统一发货。"
+  },
+  "Can I return a product if I no longer have the original packaging?|||While returning a product in its original packaging is preferred, you can still initiate a return without it. Contact our customer support team for guidance in such cases.": {
+    "question_zh": "退货时没有原包装可以吗？",
+    "answer_zh": "虽然建议使用原包装退货，但您也可以在没有原包装的情况下申请退货。如有需要，请联系我们的客服团队获取指导。"
+  },
+  "What is the warranty on your products?|||The warranty on our products varies by item. Please refer to the product page for specific warranty information or contact our customer support team.": {
+    "question_zh": "你们的产品保修期是多久？",
+    "answer_zh": "我们产品的保修期因商品而异，具体保修信息请查看商品页面，或联系我们的客服团队咨询。"
+  },
+  "Can I request a product repair or replacement if it is damaged?|||If you receive a damaged product, please contact our customer support team immediately. We will assist you with the necessary steps for repair or replacement.": {
+    "question_zh": "产品损坏了，可以申请维修或换货吗？",
+    "answer_zh": "如果您收到的产品有损坏，请立即联系我们的客服团队。我们将协助您完成维修或换货的相关流程。"
+  },
+  "Can I request a product if it is not currently available in my preferred color?|||If a product is not available in your preferred color, it may be temporarily out of stock. Please check back later or sign up for color notifications.": {
+    "question_zh": "如果商品目前没有我喜欢的颜色，可以申请补货吗？",
+    "answer_zh": "如果商品暂时没有您偏好的颜色，可能是该颜色库存暂时缺货。建议您稍后再查看，或订阅颜色到货通知。"
+  },
+  "Can I order by phone?|||Unfortunately, we do not accept orders over the phone. Please place your order through our website for a smooth and secure transaction.": {
+    "question_zh": "可以打电话下单吗？",
+    "answer_zh": "很抱歉，我们暂不支持电话下单。请您通过我们的网站提交订单，以确保交易顺畅安全。"
+  },
+  "Can I order a product that is listed as 'coming soon'?|||Products listed as 'coming soon' are not available for immediate purchase. Please sign up for notifications to be informed when the product becomes available.": {
+    "question_zh": "显示“即将上市”的商品可以下单购买吗？",
+    "answer_zh": "标注为“即将上市”的商品暂时无法直接购买。建议您订阅到货通知，我们会在商品上架后第一时间告知您。"
+  },
+  "Can I order a product that is out of stock?|||If a product is currently out of stock, you will usually see an option to sign up for product notifications. This way, you will be alerted when the product becomes available again.": {
+    "question_zh": "缺货的商品还能下单吗？",
+    "answer_zh": "如果商品暂时缺货，您通常可以点击“到货通知”进行登记。一旦商品重新上架，我们会第一时间通知您。"
+  },
+  "Can I change or cancel an item in my order?|||If you need to change or cancel an item in your order, please contact our customer support team as soon as possible. We will assist you with the necessary steps.": {
+    "question_zh": "我订单里的商品能改或取消吗？",
+    "answer_zh": "如需更改或取消订单中的商品，请尽快联系我们的客服团队，我们将协助您完成相关操作。"
+  },
+  "Can I order a product if it is listed as 'out of stock' but available for backorder?|||If a product is listed as 'out of stock' but available for backorder, you can place an order to secure your item. The product will be shipped once it becomes available.": {
+    "question_zh": "商品显示‘缺货’但可以预订，我还能下单吗？",
+    "answer_zh": "如果商品显示‘缺货’但支持预订，您可以下单锁定库存。商品到货后我们会尽快为您发货。"
+  },
+  "Can I order a product if it is listed as 'coming soon' and available for pre-order?|||If a product is listed as 'coming soon' and available for pre-order, you can place an order to secure your item before it becomes available.": {
+    "question_zh": "商品显示为“即将上市”并支持预购，我能下单吗？",
+    "answer_zh": "如果商品标注为“即将上市”并开放预购，您可以提前下单，以确保在正式发售前锁定该商品。"
+  },
+  "Can I request a product if it is not currently available in my size?|||If a product is not available in your size, it may be temporarily out of stock. Please check back later or sign up for size notifications.": {
+    "question_zh": "如果我的尺码暂时没货，可以申请补货吗？",
+    "answer_zh": "如果商品暂时没有您需要的尺码，可能是该尺码已售罄或库存不足。建议您稍后再来查看，或订阅尺码到货通知，以便及时获取补货信息。"
+  },
+  "What should I do if my package is lost or damaged?|||If your package is lost or damaged during transit, please contact our customer support team immediately. We will initiate an investigation and take the necessary steps to resolve the issue.": {
+    "question_zh": "我的包裹丢了或者坏了怎么办？",
+    "answer_zh": "如果您的包裹在运输过程中丢失或损坏，请立即联系我们的客服团队。我们将启动调查并采取必要措施为您解决问题。"
+  },
+  "Can I add a gift message to my order?|||Yes, you can add a gift message during the checkout process. There is usually a section where you can enter your personalized message.": {
+    "question_zh": "下单时能加个礼品留言吗？",
+    "answer_zh": "可以的，您在结算流程中通常能找到填写个性化留言的栏目，直接输入即可。"
+  },
+  "Can I return a product if it was purchased with store credit?|||Yes, you can return a product purchased with store credit. The refund will be issued in the form of store credit, which you can use for future purchases.": {
+    "question_zh": "用店铺余额买的商品能退货吗？",
+    "answer_zh": "可以，使用店铺余额购买的商品支持退货。退款将以店铺余额形式返还，您可在后续购物中使用。"
+  },
+  "How can I track my order?|||You can track your order by logging into your account and navigating to the 'Order History' section. There, you will find the tracking information for your shipment.": {
+    "question_zh": "怎么查我的订单物流？",
+    "answer_zh": "您可以登录账户，进入“订单历史”页面查看物流信息。该页面会显示您包裹的追踪详情。"
+  },
+  "Can I order without creating an account?|||Yes, you can place an order as a guest without creating an account. However, creating an account offers benefits such as order tracking and easier future purchases.": {
+    "question_zh": "不注册账号能下单吗？",
+    "answer_zh": "可以，您无需注册账号即可作为访客下单。不过，注册账号可享受订单追踪和未来购物更便捷等权益。"
+  },
+  "Can I order a product that is labeled as 'limited edition'?|||'Limited edition' products may have restricted availability. We recommend placing an order as soon as possible to secure your item.": {
+    "question_zh": "标有‘限量版’的商品可以下单吗？",
+    "answer_zh": "限量版商品库存有限，建议您尽快下单以确保购买成功。"
+  },
+  "Can I order a product if it is listed as 'sold out'?|||If a product is listed as 'sold out,' it is currently unavailable for purchase. Please check back later or sign up for notifications when it becomes available again.": {
+    "question_zh": "商品显示‘售罄’还能下单吗？",
+    "answer_zh": "如果商品显示为‘售罄’，说明目前暂时无法购买。建议您稍后再来查看，或开启到货通知，以便及时获取补货信息。"
+  },
+  "Do you offer expedited shipping?|||Yes, we offer expedited shipping options for faster delivery. During the checkout process, you can select the desired expedited shipping method.": {
+    "question_zh": "你们有加急配送服务吗？",
+    "answer_zh": "有的，我们提供加急配送选项，可加快送达速度。在结算过程中，您可以选择所需的加急配送方式。"
+  },
+  "Can I order a product if it is listed as 'coming soon' and not available for pre-order?|||If a product is listed as 'coming soon' but not available for pre-order, you will need to wait until it is officially released and becomes available for purchase.": {
+    "question_zh": "商品显示为“即将推出”但无法预购，我能下单吗？",
+    "answer_zh": "如果商品标注为“即将推出”且未开放预购，您需要等待该商品正式上架并开放购买后才能下单。"
+  },
+  "What is your email newsletter about?|||Our email newsletter provides updates on new product releases, exclusive offers, and helpful tips related to our products. You can subscribe to our newsletter on our website.": {
+    "question_zh": "你们的邮件订阅主要发些什么内容？",
+    "answer_zh": "我们的邮件订阅会推送新品发布、专属优惠以及产品相关的实用技巧。您可以在我们官网进行订阅。"
+  },
+  "How long does shipping take?|||Shipping times vary depending on the destination and the shipping method chosen. Standard shipping usually takes 3-5 business days, while express shipping can take 1-2 business days.": {
+    "question_zh": "发货后多久能到？",
+    "answer_zh": "配送时间因目的地和所选物流方式而异。标准配送通常需要3-5个工作日，而加急配送则可在1-2个工作日内送达。"
+  },
+  "Do you offer international shipping?|||Yes, we offer international shipping to select countries. The availability and shipping costs will be calculated during the checkout process based on your location.": {
+    "question_zh": "你们支持国际配送吗？",
+    "answer_zh": "是的，我们支持向部分国家/地区提供国际配送服务。具体配送范围及运费将在结算时根据您的收货地址自动计算。"
+  },
+  "Can I return a product if I no longer have the original receipt?|||While a receipt is preferred for returns, we may be able to assist you without it. Please contact our customer support team for further guidance.": {
+    "question_zh": "没有原始小票还能退货吗？",
+    "answer_zh": "虽然建议您提供原始小票以便退货，但即使没有小票，我们也可以尝试为您处理。请联系我们的客服团队获取进一步指导。"
+  },
+  "Can I return a product if it was purchased as a gift?|||Yes, you can return a product purchased as a gift. However, refunds will typically be issued to the original payment method used for the purchase.": {
+    "question_zh": "如果商品是作为礼物购买的，可以退货吗？",
+    "answer_zh": "可以，作为礼物购买的商品也支持退货。但退款通常会退回到原购买时使用的支付账户。"
+  },
+  "Can I request a refund if the price drops after my purchase?|||If the price of a product drops within 7 days of your purchase, you may be eligible for a price adjustment. Please contact our customer support team with your order details.": {
+    "question_zh": "买完东西后降价了，能申请退款吗？",
+    "answer_zh": "如果您购买的商品在7天内降价，您可能符合价格调整条件。请联系我们的客服团队并提供订单详情。"
+  },
+  "How can I contact customer support?|||You can contact our customer support team by phone at [phone number] or by email at [email address]. Our team is available [working hours] to assist you with any inquiries or issues you may have.": {
+    "question_zh": "怎么联系客服？",
+    "answer_zh": "您可以通过电话 [电话号码] 或发送邮件至 [邮箱地址] 联系我们的客服团队。工作时间为 [工作时间]，我们将随时为您解答疑问或处理问题。"
+  },
+  "Can I change my order after it has been placed?|||If you need to change your order, please contact our customer support team as soon as possible. We will do our best to accommodate your request if the order has not been processed yet.": {
+    "question_zh": "下单后还能修改订单吗？",
+    "answer_zh": "如需修改订单，请尽快联系我们的客服团队。若订单尚未处理，我们会尽力为您调整。"
+  },
+  "What should I do if I receive the wrong item?|||If you receive the wrong item in your order, please contact our customer support team immediately. We will arrange for the correct item to be shipped to you and assist with returning the wrong item.": {
+    "question_zh": "我收到的商品不对怎么办？",
+    "answer_zh": "如果您收到的商品与订单不符，请立即联系我们的客服团队。我们将为您重新寄送正确的商品，并协助您退回错误的商品。"
+  },
+  "Can I request a product that is currently out of stock to be restocked?|||We strive to restock popular products whenever possible. Please sign up for product notifications to be informed when the item becomes available again.": {
+    "question_zh": "缺货的商品可以申请补货吗？",
+    "answer_zh": "我们会尽量为热门商品安排补货。建议您开启商品到货通知，以便在商品重新上架时第一时间获知。"
+  },
+  "Can I order a product if it is listed as 'backordered'?|||Products listed as 'backordered' are temporarily out of stock but can still be ordered. Your order will be fulfilled once the product is restocked.": {
+    "question_zh": "商品显示为“缺货待补”时还能下单吗？",
+    "answer_zh": "显示“缺货待补”的商品暂时无货，但您仍可正常下单。待商品补货到库后，我们会尽快为您安排发货。"
+  },
+  "Can I use multiple promo codes on a single order?|||Usually, only one promo code can be applied per order. During the checkout process, enter the promo code in the designated field to apply the discount to your order.": {
+    "question_zh": "一个订单能用多个优惠码吗？",
+    "answer_zh": "通常情况下，每个订单只能使用一个优惠码。在结算时，请在指定输入框中输入优惠码，即可享受折扣。"
+  },
+  "How can I create an account?|||To create an account, click on the 'Sign Up' button on the top right corner of our website and follow the instructions to complete the registration process.": {
+    "question_zh": "怎么注册账号？",
+    "answer_zh": "请点击网站右上角的“注册”按钮，然后按照提示完成注册流程即可。"
+  },
+  "Do you offer a satisfaction guarantee?|||Yes, we offer a satisfaction guarantee on our products. If you are not satisfied with your purchase, please contact our customer support team for assistance.": {
+    "question_zh": "你们有满意保证吗？",
+    "answer_zh": "是的，我们为产品提供满意保证。如果您对购买不满意，请联系我们的客服团队获取帮助。"
+  },
+  "Can I return a product if it was damaged due to improper use?|||Our return policy generally covers products that are defective or damaged upon arrival. Damage due to improper use may not be eligible for a return. Please contact our customer support team for assistance.": {
+    "question_zh": "如果产品是因为我使用不当损坏的，还能退货吗？",
+    "answer_zh": "我们的退货政策通常只覆盖到货时即有缺陷或损坏的产品。因使用不当造成的损坏可能不符合退货条件。如需进一步协助，请联系我们的客服团队。"
+  },
+  "How do I unsubscribe from your newsletter?|||To unsubscribe from our newsletter, click on the 'Unsubscribe' link at the bottom of any of our newsletter emails or update your preferences in your account settings.": {
+    "question_zh": "怎么取消订阅你们的邮件通知？",
+    "answer_zh": "您可以通过点击我们任何一封邮件底部的“取消订阅”链接，或在您的账户设置中更新偏好设置来取消订阅。"
+  },
+  "Can I order a product if it is listed as 'coming soon' but available for pre-order?|||If a product is listed as 'coming soon' and available for pre-order, you can place an order to secure your item before it becomes available.": {
+    "question_zh": "商品显示为‘即将上市’但可以预购，我能下单吗？",
+    "answer_zh": "如果商品标注为‘即将上市’并开放预购，您可以提前下单锁定该商品，待正式发售后再安排发货。"
+  },
+  "Can I return a product if I changed my mind?|||Yes, you can return a product if you changed your mind. Please ensure the product is in its original condition and packaging, and refer to our return policy for instructions.": {
+    "question_zh": "我不想要了，能退货吗？",
+    "answer_zh": "可以的，如果您改变主意，可以申请退货。请确保商品保持原状且包装完好，并参照我们的退货政策进行操作。"
+  },
+  "Can I return a product if it was purchased during a promotional event?|||Yes, you can return a product purchased during a promotional event. The refund will be processed based on the amount paid after any applicable discounts.": {
+    "question_zh": "促销活动期间买的商品能退货吗？",
+    "answer_zh": "可以退货。退款金额将按您实际支付的折扣后金额计算。"
+  },
+  "Can I request a product if it is not listed on your website?|||If a product is not listed on our website, it may not be available for purchase. We recommend exploring the available products or contacting our customer support team for further assistance.": {
+    "question_zh": "如果你们网站上没有我想要的产品，可以申请上架吗？",
+    "answer_zh": "如果产品未在网站上列出，可能暂时无法购买。建议您浏览现有商品，或联系我们的客服团队获取进一步帮助。"
+  },
+  "Can I return a product if it was a final sale item?|||Final sale items are usually non-returnable and non-refundable. Please review the product description or contact our customer support team to confirm the return eligibility for specific items.": {
+    "question_zh": "特价清仓商品能退货吗？",
+    "answer_zh": "特价清仓商品通常不支持退换或退款。请查看商品描述或联系我们的客服团队，确认具体商品的退货资格。"
+  },
+  "Can I order a product as a gift?|||Yes, you can order a product as a gift and have it shipped directly to the recipient. During the checkout process, you can enter the recipient's shipping address.": {
+    "question_zh": "我可以把商品作为礼物下单吗？",
+    "answer_zh": "可以。您可以将商品作为礼物下单，并直接寄送给收件人。在结算过程中，您可以填写收件人的收货地址。"
+  },
+  "How can I reset my password?|||To reset your password, click on the 'Forgot Password' link on the login page and follow the instructions to reset your password.": {
+    "question_zh": "怎么重置密码？",
+    "answer_zh": "请在登录页面点击“忘记密码”链接，然后按照提示操作即可重置密码。"
+  },
+  "How can I apply for a job at your company?|||To apply for a job at our company, visit our Careers page, where you can find current job openings and submit your application.": {
+    "question_zh": "请问怎么申请你们公司的工作？",
+    "answer_zh": "请访问我们的招聘页面，查看当前职位空缺并提交您的申请。"
+  },
+  "Can I cancel my order?|||You can cancel your order if it has not been shipped yet. Please contact our customer support team with your order details, and we will assist you with the cancellation process.": {
+    "question_zh": "订单还能取消吗？",
+    "answer_zh": "如果您的订单尚未发货，可以申请取消。请提供订单详情联系我们的客服团队，我们将协助您完成取消流程。"
+  },
+  "Can I return a product if it was purchased with a discount code?|||Yes, you can return a product purchased with a discount code. The refund will be processed based on the amount paid after the discount.": {
+    "question_zh": "用优惠券买的商品能退货吗？",
+    "answer_zh": "可以退货。退款金额将按您实际支付的折扣后金额计算。"
+  },
+  "Can I return a product if it was purchased with a promotional gift card?|||Yes, you can return a product purchased with a promotional gift card. The refund will be issued in the form of store credit or a new gift card.": {
+    "question_zh": "用促销礼品卡买的商品能退货吗？",
+    "answer_zh": "可以退货。退款将以店铺余额或新礼品卡的形式返还给您。"
+  },
+  "What is your price matching policy?|||We have a price matching policy where we will match the price of an identical product found on a competitor's website. Please contact our customer support team with the details of the product and the competitor's offer.": {
+    "question_zh": "你们有价格匹配政策吗？",
+    "answer_zh": "我们提供价格匹配服务，如果发现竞争对手网站上同款商品价格更低，我们将匹配该价格。请联系我们的客服团队，提供商品详情及竞争对手的报价信息。"
+  },
+  "Can I return a product if it was damaged due to mishandling during shipping?|||If your product was damaged due to mishandling during shipping, please contact our customer support team immediately. We will assist you with the necessary steps for return and replacement.": {
+    "question_zh": "商品在运输过程中因操作不当损坏了，能退货吗？",
+    "answer_zh": "如果您的商品因运输过程中的操作不当而损坏，请立即联系我们的客服团队。我们将协助您完成退货和换货的必要流程。"
+  },
+  "Are my personal and payment details secure?|||Yes, we take the security of your personal and payment details seriously. We use industry-standard encryption and follow strict security protocols to ensure your information is protected.": {
+    "question_zh": "我的个人信息和支付信息安全吗？",
+    "answer_zh": "是的，我们非常重视您个人信息和支付信息的安全。我们采用行业标准的加密技术，并遵循严格的安全协议，确保您的信息得到充分保护。"
+  },
+  "Do you offer bulk or wholesale discounts?|||Yes, we offer bulk or wholesale discounts for certain products. Please contact our customer support team or visit our Wholesale page for more information and to discuss your specific requirements.": {
+    "question_zh": "你们有批量或批发折扣吗？",
+    "answer_zh": "是的，我们针对部分产品提供批量或批发折扣。如需了解更多详情并讨论您的具体需求，请联系我们的客服团队或访问批发页面。"
+  },
+  "What should I do if my discount code is not working?|||If your discount code is not working, please double-check the terms and conditions associated with the code. If the issue persists, contact our customer support team for assistance.": {
+    "question_zh": "我的优惠码用不了怎么办？",
+    "answer_zh": "如果您的优惠码无法使用，请先核对一下该优惠码的使用条件和限制。如果问题仍然存在，请联系我们的客服团队，我们会帮您处理。"
+  },
+  "Can I order a product that is discontinued?|||Discontinued products are no longer available for purchase. We recommend exploring alternative products on our website.": {
+    "question_zh": "已经停产的商品还能下单购买吗？",
+    "answer_zh": "停产商品已不再销售，建议您在我们的网站上查看其他替代产品。"
+  },
+  "Can I request a product demonstration before making a purchase?|||We do not currently offer product demonstrations before purchase. However, you can find detailed product descriptions, specifications, and customer reviews on our website.": {
+    "question_zh": "购买前可以申请产品演示吗？",
+    "answer_zh": "目前我们不提供购买前的产品演示服务。不过，您可以在我们网站上查看详细的产品描述、规格参数以及客户评价。"
+  },
+  "What is your return policy?|||Our return policy allows you to return products within 30 days of purchase for a full refund, provided they are in their original condition and packaging. Please refer to our Returns page for detailed instructions.": {
+    "question_zh": "你们的退货政策是什么？",
+    "answer_zh": "我们的退货政策支持在购买后30天内退回商品，只要商品保持原状且包装完好，即可获得全额退款。具体操作步骤请参考我们的退货页面。"
+  },
+  "What is your price adjustment policy?|||If a product you purchased goes on sale within 7 days of your purchase, we offer a one-time price adjustment. Please contact our customer support team with your order details to request the adjustment.": {
+    "question_zh": "你们的价格保护政策是怎样的？",
+    "answer_zh": "如果您购买的商品在订单完成后7天内降价，我们可以为您提供一次价格调整。请联系我们的客服团队，并提供订单详情以申请差价补偿。"
+  },
+  "What is your privacy policy?|||Our privacy policy outlines how we collect, use, and protect your personal information. Please visit our Privacy Policy page for detailed information.": {
+    "question_zh": "你们的隐私政策是什么？",
+    "answer_zh": "我们的隐私政策说明了我们如何收集、使用和保护您的个人信息。详细信息请访问我们的隐私政策页面。"
+  }
+}

@@ -1,0 +1,426 @@
+[
+  {
+    "id": "public_retrieval_0051",
+    "question": "Can I request an invoice for my order?",
+    "expected_faq_id": "public_faq_0038",
+    "expected_category": "invoice",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0022",
+    "question": "Can I return a product if it was purchased as a gift?",
+    "expected_faq_id": "public_faq_0049",
+    "expected_category": "refund",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0010",
+    "question": "Do you offer expedited shipping?",
+    "expected_faq_id": "public_faq_0023",
+    "expected_category": "delivery",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0053",
+    "question": "What is your privacy policy?",
+    "expected_faq_id": "public_faq_0082",
+    "expected_category": "privacy",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0043",
+    "question": "Can I return a product if it was purchased as part of a bundle or set?",
+    "expected_faq_id": "public_faq_0067",
+    "expected_category": "return",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0006",
+    "question": "What payment methods do you accept?",
+    "expected_faq_id": "public_faq_0002",
+    "expected_category": "payment",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0007",
+    "question": "Can I order a product for delivery to a different country?",
+    "expected_faq_id": "public_faq_0034",
+    "expected_category": "delivery",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0020",
+    "question": "Can I return a product if it was purchased with a gift card?",
+    "expected_faq_id": "public_faq_0052",
+    "expected_category": "refund",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0028",
+    "question": "Can I order by phone?",
+    "expected_faq_id": "public_faq_0013",
+    "expected_category": "general",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0017",
+    "question": "Can I return a product if it was purchased during a sale or with a discount?",
+    "expected_faq_id": "public_faq_0046",
+    "expected_category": "refund",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0001",
+    "question": "How do I update my account information?",
+    "expected_faq_id": "public_faq_0081",
+    "expected_category": "account",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0002",
+    "question": "How can I reset my password?",
+    "expected_faq_id": "public_faq_0080",
+    "expected_category": "account",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0016",
+    "question": "Can I return a product if it was purchased with store credit?",
+    "expected_faq_id": "public_faq_0073",
+    "expected_category": "refund",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0031",
+    "question": "Can I request a product that is listed as 'limited edition' to be restocked?",
+    "expected_faq_id": "public_faq_0062",
+    "expected_category": "product",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0049",
+    "question": "Can I return a product if it was damaged due to mishandling during shipping?",
+    "expected_faq_id": "public_faq_0070",
+    "expected_category": "return",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0024",
+    "question": "Can I add a gift message to my order?",
+    "expected_faq_id": "public_faq_0035",
+    "expected_category": "general",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0012",
+    "question": "How can I track my order?",
+    "expected_faq_id": "public_faq_0003",
+    "expected_category": "delivery",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0013",
+    "question": "Can I order without creating an account?",
+    "expected_faq_id": "public_faq_0017",
+    "expected_category": "delivery",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0034",
+    "question": "Can I request a product if it is listed as 'coming soon' but not available for pre-order?",
+    "expected_faq_id": "public_faq_0059",
+    "expected_category": "product",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0019",
+    "question": "Can I return a product if it was purchased with a discount code?",
+    "expected_faq_id": "public_faq_0055",
+    "expected_category": "refund",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0033",
+    "question": "What is your email newsletter about?",
+    "expected_faq_id": "public_faq_0025",
+    "expected_category": "product",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0023",
+    "question": "What are your business hours?",
+    "expected_faq_id": "public_faq_0085",
+    "expected_category": "general",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0038",
+    "question": "Can I order a product if it is listed as 'discontinued' but still visible on the website?",
+    "expected_faq_id": "public_faq_0063",
+    "expected_category": "product",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0008",
+    "question": "How long does shipping take?",
+    "expected_faq_id": "public_faq_0006",
+    "expected_category": "delivery",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0027",
+    "question": "Do you offer live chat support?",
+    "expected_faq_id": "public_faq_0027",
+    "expected_category": "general",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0009",
+    "question": "Can I order a product as a gift?",
+    "expected_faq_id": "public_faq_0028",
+    "expected_category": "delivery",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0037",
+    "question": "Can I order a product if it is listed as 'pre-order' but available for backorder?",
+    "expected_faq_id": "public_faq_0072",
+    "expected_category": "product",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0042",
+    "question": "Can I use multiple promo codes on a single order?",
+    "expected_faq_id": "public_faq_0021",
+    "expected_category": "coupon",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0035",
+    "question": "Can I order a product that is labeled as 'limited edition'?",
+    "expected_faq_id": "public_faq_0039",
+    "expected_category": "product",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0052",
+    "question": "Can I request a product repair or replacement if it is damaged?",
+    "expected_faq_id": "public_faq_0047",
+    "expected_category": "exchange",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0029",
+    "question": "How can I contact customer support?",
+    "expected_faq_id": "public_faq_0010",
+    "expected_category": "general",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0039",
+    "question": "What should I do if my discount code is not working?",
+    "expected_faq_id": "public_faq_0029",
+    "expected_category": "coupon",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0032",
+    "question": "Can I request a product if it is not currently available in my size?",
+    "expected_faq_id": "public_faq_0053",
+    "expected_category": "product",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0047",
+    "question": "What should I do if I receive the wrong item?",
+    "expected_faq_id": "public_faq_0022",
+    "expected_category": "return",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0040",
+    "question": "Do you offer bulk or wholesale discounts?",
+    "expected_faq_id": "public_faq_0018",
+    "expected_category": "coupon",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0014",
+    "question": "Do you offer international shipping?",
+    "expected_faq_id": "public_faq_0007",
+    "expected_category": "delivery",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0005",
+    "question": "Are my personal and payment details secure?",
+    "expected_faq_id": "public_faq_0014",
+    "expected_category": "payment",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0050",
+    "question": "Can I return a product if I no longer have the original packaging?",
+    "expected_faq_id": "public_faq_0040",
+    "expected_category": "return",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0026",
+    "question": "Do you offer gift wrapping services?",
+    "expected_faq_id": "public_faq_0011",
+    "expected_category": "general",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0048",
+    "question": "Can I return a product without a receipt?",
+    "expected_faq_id": "public_faq_0033",
+    "expected_category": "return",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0003",
+    "question": "How do I unsubscribe from your newsletter?",
+    "expected_faq_id": "public_faq_0084",
+    "expected_category": "account",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0046",
+    "question": "Can I return a product if I changed my mind?",
+    "expected_faq_id": "public_faq_0026",
+    "expected_category": "return",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0004",
+    "question": "How can I create an account?",
+    "expected_faq_id": "public_faq_0001",
+    "expected_category": "account",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0021",
+    "question": "Can I return a product if it was purchased with a promotional gift card?",
+    "expected_faq_id": "public_faq_0076",
+    "expected_category": "refund",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0044",
+    "question": "Can I return a product if it was damaged during shipping?",
+    "expected_faq_id": "public_faq_0043",
+    "expected_category": "return",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0015",
+    "question": "Can I return a product if it was a clearance or final sale item?",
+    "expected_faq_id": "public_faq_0064",
+    "expected_category": "refund",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0036",
+    "question": "Can I order a product that is discontinued?",
+    "expected_faq_id": "public_faq_0032",
+    "expected_category": "product",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0045",
+    "question": "Can I return a product if I no longer have the original receipt?",
+    "expected_faq_id": "public_faq_0061",
+    "expected_category": "return",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0041",
+    "question": "Do you have a loyalty program?",
+    "expected_faq_id": "public_faq_0016",
+    "expected_category": "coupon",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0018",
+    "question": "Can I return a product if it was purchased during a promotional event?",
+    "expected_faq_id": "public_faq_0079",
+    "expected_category": "refund",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0025",
+    "question": "Can I cancel my order?",
+    "expected_faq_id": "public_faq_0005",
+    "expected_category": "general",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0030",
+    "question": "Can I change my order after it has been placed?",
+    "expected_faq_id": "public_faq_0083",
+    "expected_category": "general",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  },
+  {
+    "id": "public_retrieval_0011",
+    "question": "Can I change my shipping address after placing an order?",
+    "expected_faq_id": "public_faq_0009",
+    "expected_category": "delivery",
+    "source_title": "MakTek Customer Support FAQs Dataset",
+    "dataset_source": "MakTek/Customer_support_faqs_dataset"
+  }
+]

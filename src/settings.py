@@ -82,3 +82,63 @@ MOCK_ORDERS_PATH = get_str(
     "MOCK_ORDERS_PATH",
     "data/mock/orders.json",
 )
+
+RAG_RETRIEVER_MODE = get_str(
+    "RAG_RETRIEVER_MODE",
+    "hybrid",
+)
+
+VECTOR_TOP_K = get_int(
+    "VECTOR_TOP_K",
+    5,
+)
+
+BM25_TOP_K = get_int(
+    "BM25_TOP_K",
+    5,
+)
+
+HYBRID_FINAL_TOP_K = get_int(
+    "HYBRID_FINAL_TOP_K",
+    3,
+)
+
+RRF_K = get_int(
+    "RRF_K",
+    60,
+)
+
+FAQ_CSV_PATH = get_str(
+    "FAQ_CSV_PATH",
+    "data/raw/customer_support_faq.csv",
+)
+
+RERANKER_ENABLED = get_str(
+    "RERANKER_ENABLED",
+    "true",
+).lower() == "true"
+
+RERANKER_MODEL_NAME = get_str(
+    "RERANKER_MODEL_NAME",
+    "BAAI/bge-reranker-base",
+)
+
+RERANKER_LOCAL_ONLY = get_str(
+    "RERANKER_LOCAL_ONLY",
+    "false",
+).lower() == "true"
+
+RERANKER_TOP_K = get_int(
+    "RERANKER_TOP_K",
+    3,
+)
+
+QUERY_REWRITE_ENABLED = get_str(
+    "QUERY_REWRITE_ENABLED",
+    "true",
+).lower() == "true"
+
+SHOW_REFERENCE_SOURCES = get_str(
+    "SHOW_REFERENCE_SOURCES",
+    "true",
+).lower() == "true"
